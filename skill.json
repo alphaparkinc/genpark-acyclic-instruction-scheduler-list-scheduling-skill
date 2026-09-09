@@ -1,0 +1,13 @@
+{
+  "name": "genpark-acyclic-instruction-scheduler-list-scheduling-skill",
+  "version": "1.0.0",
+  "description": "Critical-path instruction list scheduler optimizing instruction-level parallelism (ILP) and minimizing pipeline bubbles under hardware hazards.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "instruction-scheduling",
+    "ilp-optimization",
+    "critical-path",
+    "pipeline-scheduling"
+  ]
+}
